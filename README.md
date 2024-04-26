@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋 My Name is Pahul Mangat
+
+## About Me
+- Software developer with over 3 years over practical experience
+- Graduated from Western University with a Bachelor’s in Mechatronic Systems Engineering
+- Currently working for StayInFront as a Software Developer
+
+## Socials
+- [Linkedin](https://www.linkedin.com/in/pahulmangat/)
+
+## [Resume](./Resume_PahulMangat.pdf?raw=true)
 
 <!--
 **pahulmangat/pahulmangat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
